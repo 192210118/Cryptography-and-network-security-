@@ -3,7 +3,6 @@
 #include<conio.h>
 #include <ctype.h>
 void main()
-6
 {
 char plain[10], cipher[10];
 int key,i,length;
